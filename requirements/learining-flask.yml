@@ -13,11 +13,14 @@ dependencies:
 - python=3.6.2=0
 - readline=6.2=2
 - setuptools=36.4.0=py36_0
+- sqlalchemy=1.1.13=py36_0
 - sqlite=3.13.0=0
 - tk=8.5.18=0
 - werkzeug=0.12.2=py36_0
 - wheel=0.29.0=py36_0
 - xz=5.2.3=0
 - zlib=1.2.11=0
+- pip:
+  - flask-sqlalchemy==2.2
 prefix: /home/bruno/anaconda3/envs/learning-flask
 
